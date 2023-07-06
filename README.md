@@ -8,7 +8,7 @@ Projeto do Cordel de Milton Duarte
 
 ## 🖥️ Projeto
 
-Projeto Redes Sociais. Projeto trabalhado com frames. Ao clicar num ícone no canto direito, criamos um frame dentro do celular para apresentar a imagem da rede social como se estivesse na própria rede social.
+Projeto Cordel. Um Cordel Moderno, onde colocamos o efeito Parallax nas imagens, usando o background-attachment. 
 
 ## 🚀 Tecnologias
 
